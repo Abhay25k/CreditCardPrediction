@@ -1,2 +1,2 @@
 # Credit-Card-Approval-Predication
-This model to classify the Credit Card Approval Prediction 
+This ia a project model for Credit Card Approval Prediction 
